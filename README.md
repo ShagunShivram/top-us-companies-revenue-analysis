@@ -17,7 +17,8 @@ Clean and standardize column names.
 Convert revenue to numeric values.
 Visualize the top 10 companies by revenue.
 
-C.Code Example
+C.Code Example:
+
 import requests
 import pandas as pd
 import matplotlib.pyplot as plt
